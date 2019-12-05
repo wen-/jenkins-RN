@@ -1,2 +1,2 @@
 # jenkins-RN
-h1 打包apk 及 ipa
+打包apk 及 ipa
